@@ -1,6 +1,7 @@
 {
   "members": [
-    {"id": 1, "name": "Kush", "contact": "9030633008", "address": "Zaheerabad"}
+    {"id": 1, "name": "Kush", "contact": "9030633008", "address": "Zaheerabad"},
+    {"id": 2, "name": "Praveen", "contact": "9999199990", "address": "Hyderabad"}
   ],
   "posts": [
     {
